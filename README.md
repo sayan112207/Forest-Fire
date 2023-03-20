@@ -7,7 +7,7 @@ Here are some screenshots of the wep application
 
 <li>
  <ul>Forest is in Danger:
-  <img width="960" alt="image" src="https://user-images.githubusercontent.com/90127231/226433372-16f3486d-0d1e-4d9e-833d-1688fd94168f.png"></ul>
+  <img width="960" alt="image" src="https://user-images.githubusercontent.com/90127231/226433372-16f3486d-0d1e-4d9e-833d-1688fd94168f.png"></ul><br>
  <ul>Forest is safe:
   <img width="960" alt="image" src="https://user-images.githubusercontent.com/90127231/226433658-09f729e7-0940-4ac4-af6a-8d2aefd438bb.png"></ul>
  <li>
